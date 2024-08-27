@@ -1,0 +1,6 @@
+requests
+beautifulsoup4
+yfinance
+pandas
+prophet
+pyodbc
